@@ -7,9 +7,10 @@
       <div class="col-12">
         <h2 class="section-title text-primary">{{ .Title }}</h2>
         {{ .Content }}
-        <form action="{{ .Site.Params.contact_form_action | safeURL }}">
-          action="https://formspree.io/f/moqpeyao"
-          method="POST"
+        <form action="{{ .Site.Params.contact_form_action | safeURL }}"
+        action="https://formspree.io/f/moqpeyao"
+        method="POST"
+        >
           <input type="text" id="name" name="name" placeholder="Name" class="form-control mb-4 shadow rounded-0">
           <input type="email" id="mail" name="mail" placeholder="Email" class="form-control mb-4 shadow rounded-0">
           <input type="text" id="subject" name="subject" placeholder="Year/Program"

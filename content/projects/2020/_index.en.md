@@ -8,7 +8,7 @@ draft: false
 keywords: ["twitter", "presidential debates"]
 ---
 
-## Call for Fellowship: 2020 U.S. Presidential Debates and Twitter
+### Call for Fellowship: 2020 U.S. Presidential Debates and Twitter
 
 ### Why Twitter?
 Since their launch in the early 2000s, microblogging sites such as Twitter have played an increasingly important role in political communication. Whereas those efforts by candidates once focused on television spots, billboards, and stump speeches, today social media serves as a central communication platform for many election campaigns (Stromer-Galley 2014). In 2016, for example, users posted over one billion tweets about the U.S. presidential election (Levy 2016), a fact that led New Yorker writer Nathan Heller (2016) to call the campaign the country’s first “Twitter election”—one in which the battle for the “Twittersphere” loomed almost as large as the election itself. Increasingly, the most successful candidates are not necessarily those with the most reasoned positions on issues but rather those whose ideas emerge most clearly from the cacophony of 280-character sound bites about an election created and shared by voters, the news media, and, of course, by the candidates themselves.
@@ -19,17 +19,6 @@ As people link, like, follow, friend, reply, retweet, comment, tag, rate, review
 For example:  
 **Table I**. Relationships between Tweets and Users in Twitter social network.
 
-|       | User                    | Tweet                       |
-|-------|-------------------------|-----------------------------|
-| User  | Follows/ is followed by | Posts                       |
-|       | Mention                 | Retweets                    |
-|       | Replies to              | Marks as favorite           |
-|       | Retweets to             | Replies                     |
-| Tweet | Posted by               |                             |
-|       | Retweeted by            | Replies/ is replied from    |
-|       | Marked as favorite by   | Retweets/ is retweeted from |
-|       | Replied by              |                             |
-
 |       | User                                                             | Tweet                                                       |
 |-------|------------------------------------------------------------------|-------------------------------------------------------------|
 | User  | Follows/ is followed by<br>Mention<br>Replies to<br>Retweets to  | Posts<br>Retweets<br>Marks as favorite<br>Replies           |
@@ -38,7 +27,7 @@ For example:
 ### Why Here?
 The goal of researching on this topic is for fellows to highlight the structure of the network’s relationships and discourse behind those text, textual, and contextual connections with regard to special and temporal dimensions in political communication. However, such a topic only serves as a direction and welcomes diverse perspectives of scrutiny in an interdisciplinary fashion. In other words, the freedom is reserved for each fellow to propose, develop, and refine their individual or group research questions. People at the lab will utilize workshops to engage with various projects on a rolling basis and have experiments to familiarize with SNA.
 
-## If you are interested in this topic or joining our lab, feel free to [sign up](https://snalab.netlify.app/signup/)!  
+If you are interested in this topic or joining our lab, feel free to [sign up](https://snalab.netlify.app/signup/)!  
 
 _References_  
 * Heller, Nathan (2016), “The First Debate of the Twitter Election,” The New Yorker (September 27), https://www.newyorker.com/culture/cultural-comment/the-first-debate-of-the-twitter-election.

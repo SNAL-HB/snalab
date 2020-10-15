@@ -7,8 +7,8 @@ draft: false
 Social networks have always been at the center of human interaction, but especially with the explosive growth of the internet, network analysis has become increasingly central to all branches of the social sciences. How do people influence each other, bargain with each other, exchange information (or germs), or interact online? We share experience in learning data mining and visualization as we collaborate to pursue state-of-the-art techniques for visualizing and modeling social networks, as well as a concern for theory and interpretation of the form, variation, and evolution of a broad range of social networks.
 {{</ faq >}}
 
-{{< faq "What does "experiment + workshop" mean?" >}}
-SNA Lab @Harrisburg employs the model of “workshop + experiment,” which allows research fellows to explore various tools, discuss working ideas, and prepare for succeeding projects. Our teams may work under the same topic, but each group or individual may propose and develop their subjects as we progress.
+{{< faq "What does "experiment and workshop" mean?" >}}
+SNA Lab @Harrisburg employs the model of “workshop and experiment,” which allows research fellows to explore various tools, discuss working ideas, and prepare for succeeding projects. Our teams may work under the same topic, but each group or individual may propose and develop their subjects as we progress.
 {{</ faq >}}
 
 {{< faq "What is the format of workshop?" >}}

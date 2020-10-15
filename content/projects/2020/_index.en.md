@@ -8,7 +8,7 @@ draft: false
 keywords: ["twitter" "presidential debates"]
 ---
 
-### Call for Fellowship: 2020 U.S. Presidential Debates and Twitter
+#Call for Fellowship: 2020 U.S. Presidential Debates and Twitter
 
 ## Why Twitter?
 Since their launch in the early 2000s, microblogging sites such as Twitter have played an increasingly important role in political communication. Whereas those efforts by candidates once focused on television spots, billboards, and stump speeches, today social media serves as a central communication platform for many election campaigns (Stromer-Galley 2014). In 2016, for example, users posted over one billion tweets about the U.S. presidential election (Levy 2016), a fact that led New Yorker writer Nathan Heller (2016) to call the campaign the country’s first “Twitter election”—one in which the battle for the “Twittersphere” loomed almost as large as the election itself. Increasingly, the most successful candidates are not necessarily those with the most reasoned positions on issues but rather those whose ideas emerge most clearly from the cacophony of 280-character sound bites about an election created and shared by voters, the news media, and, of course, by the candidates themselves.

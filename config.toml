@@ -59,7 +59,7 @@ link = "https://github.com/SNAL-HB"
 #languageName = "En"
 #languageCode = "en-us"
 #weight = 1
-#copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg"
+copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg"
 
 # banner
 [Languages.en.params.banner]

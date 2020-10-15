@@ -17,7 +17,7 @@ unsafe = true
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
-logo = ""
+logo = "SNA Lab"
 # logo white is for homepage logo, you can use colorful logo too...
 logo_white = ""
 # when logo is empty, it will shown your site title
@@ -34,7 +34,7 @@ light_color = "#f8f9fa"
 font_family = "lato" # Choose font family from : https://fonts.google.com/
 
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/moqpeyao" # contact form works with : https://formspree.io
 
 
 ############################## social links ##############################

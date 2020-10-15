@@ -3,4 +3,4 @@ title: "Sign up"
 draft: false
 ---
 
-Submit the form and confirm your email address at [Formspree](https://formspree.io/).
+Thanks for your interest! Now, tell us a little bit about you.

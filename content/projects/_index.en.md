@@ -8,5 +8,5 @@ type : "docs"
 
 {{< notice note >}}
   Call for Fellowship: 2020 U.S. Presidential Debates and Twitter (Open).
-  Check the detail at [here](https://snalab.netlify.app/projects/2020/)
+  Check [here](https://snalab.netlify.app/projects/2020/).
 {{< /notice >}}

@@ -5,7 +5,7 @@ lastmod: 2020-10-01T10:42:26+06:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["twitter" "presidential debates"]
+keywords: ["twitter", "presidential debates"]
 ---
 
 #Call for Fellowship: 2020 U.S. Presidential Debates and Twitter

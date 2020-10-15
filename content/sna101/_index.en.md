@@ -1,6 +1,6 @@
 ---
 title: "SNA 101"
-date: 2020-10-14T11:02:05+06:00
+date: 2020-10-13T11:02:05+06:00
 icon: "ti-blackboard"
 description: "a.k.a. cheatsheets and some crash courses"
 type : "docs"

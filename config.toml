@@ -72,7 +72,7 @@ placeholder = "Ready? Why not start your SNA journey here"
 [Languages.en.params.cta]
 enable = true
 title = "Want to participate in our lab?"
-content = "Feel free to check our ongoing projects and pitch your own topics."
+content = "Feel free to check our [ongoing projects](http://localhost:1313/projects/) or pitch your own topics."
 # call to action button
 [Languages.en.params.cta.button]
 enable = true

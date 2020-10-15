@@ -59,11 +59,11 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg"
 
 # banner
 [Languages.en.params.banner]
-title = "Collobrate, Experiment, & Workshop"
+title = "Collobrate=Experiment+Workshop"
 subtitle = "Get advice and feedback from our SNA community fast and keep in touch"
 bg_image = "images/banner.jpg"
 placeholder = "Ready? Why not start your SNA journey right here"
@@ -92,30 +92,30 @@ url = "faq"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
-url = "contact"
+name = "Sign Up"
+url = "signup"
 weight = 3
 
 # Dropdown menu
 [[Languages.en.menu.main]]
 weight = 4
-name = "docs"
+name = "Resources"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "Resources"
   name = "Installation"
   url = "installation"
   weight = 1
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "Resources"
   name = "Billing and Pricing"
   url = "billing-pricing"
   weight = 2
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "Resources"
   name = "Features"
   url = "features"
   weight = 3

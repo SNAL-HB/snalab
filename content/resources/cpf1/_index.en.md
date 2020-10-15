@@ -1,5 +1,5 @@
 ---
-title: "Call for Papers for Special Issue on Tackling COVID-19 Infodemic"
+title: "CFP:Special Issue on Tackling COVID-19 Infodemic"
 date: 2020-10-02T11:02:05+06:00
 lastmod: 2020-10-02T10:42:26+06:00
 weight: 1

@@ -10,10 +10,10 @@ keywords: ["twitter", "presidential debates"]
 
 ### Call for Fellowship: 2020 U.S. Presidential Debates and Twitter
 
-### Why Twitter?
+#### Why Twitter?
 Since their launch in the early 2000s, microblogging sites such as Twitter have played an increasingly important role in political communication. Whereas those efforts by candidates once focused on television spots, billboards, and stump speeches, today social media serves as a central communication platform for many election campaigns (Stromer-Galley 2014). In 2016, for example, users posted over one billion tweets about the U.S. presidential election (Levy 2016), a fact that led New Yorker writer Nathan Heller (2016) to call the campaign the country’s first “Twitter election”—one in which the battle for the “Twittersphere” loomed almost as large as the election itself. Increasingly, the most successful candidates are not necessarily those with the most reasoned positions on issues but rather those whose ideas emerge most clearly from the cacophony of 280-character sound bites about an election created and shared by voters, the news media, and, of course, by the candidates themselves.
 
-### Why SNA?
+#### Why SNA?
 As people link, like, follow, friend, reply, retweet, comment, tag, rate, review, edit, update, and text one another (among other channels) they form collections of connections. These collections contain network structures that can be extracted, analyzed and visualized. The result can be insights into the structure, size, and key positions in these networks. Social Network Analysis (SNA) is a unique way of analyzing relationships and their implications for practice that incorporates both qualitative and quantitative data. SNA can be used as a research or evaluation method to understand how different actors are working together, sharing resources, or communicating across a network.  
 
 For example:  
@@ -24,7 +24,7 @@ For example:
 | User  | Follows/ is followed by<br>Mention<br>Replies to<br>Retweets to  | Posts<br>Retweets<br>Marks as favorite<br>Replies           |
 | Tweet | Posted by<br>Retweeted by<br>Marked as favorite by<br>Replied by | <br>Replies/ is replied from<br>Retweets/ is retweeted from |
 
-### Why Here?
+#### Why Here?
 The goal of researching on this topic is for fellows to highlight the structure of the network’s relationships and discourse behind those text, textual, and contextual connections with regard to special and temporal dimensions in political communication. However, such a topic only serves as a direction and welcomes diverse perspectives of scrutiny in an interdisciplinary fashion. In other words, the freedom is reserved for each fellow to propose, develop, and refine their individual or group research questions. People at the lab will utilize workshops to engage with various projects on a rolling basis and have experiments to familiarize with SNA.
 
 If you are interested in this topic or joining our lab, feel free to [sign up](https://snalab.netlify.app/signup/)!  

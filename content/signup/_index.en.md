@@ -3,4 +3,4 @@ title: "Sign up"
 draft: false
 ---
 
-Thanks for your interest! Now, tell us a little bit about you.
+If you encounter any difficulty in submission or didn't hear from us within 3 days, please [contact](mailto:hartbullock@psu.edu) us.

@@ -59,7 +59,7 @@ link = "https://github.com/SNAL-HB"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg | [Contact](mailto:hartbullock@psu.edu)" 
+copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg | [Contact](mailto:hartbullock@psu.edu)"
 
 # banner
 [Languages.en.params.banner]
@@ -87,14 +87,19 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
+name = "People"
+url = "/"
+weight = 2
+
+[[Languages.en.menu.main]]
 name = "FAQ"
 url = "faq"
-weight = 2
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Sign Up"
 url = "signup"
-weight = 3
+weight = 4
 
 # Dropdown menu
 #[[Languages.en.menu.main]]

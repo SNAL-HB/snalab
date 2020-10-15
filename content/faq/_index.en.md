@@ -23,6 +23,6 @@ This lab is independently run as a group, and we currently have no internal fund
 No specific qualification is thought given our current projects and lab arrangement. As long as you are interested in learning and using social network analysis for your research, this won't be a wrong place for you.
 {{</ faq >}}
 
-{{< faq "What is the ethical code for this lab?" >}}
-No specific qualification is thought given our current projects and lab arrangement. As long as you are interested in learning and using social network analysis for your research, this won't be a wrong place for you.
+{{< faq "What is the Code of Ethics of this lab?" >}}
+The ethics, and ethical governance, of online research have been much debated, and a number of professional organizations have promulgated guidelines for researchers considering conducting their research online. Although the datasets and tools that we provided are under either Creative Common or Open Access licenses, we encourage you to review potential ethical issues per project and do not release individual user's information without consent or anonymization. You can check our [Resources](https://snalab.netlify.app/resources/) page for ethics discussion and feel free to use our workshop session to address your concerns on ethics. Also, you can consult IRB at your institute.
 {{</ faq >}}

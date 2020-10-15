@@ -1,8 +1,8 @@
 ---
-title: "Billing & Pricing"
+title: "SNA 101"
 date: 2018-12-28T11:02:05+06:00
-icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
+icon: "ti-blackboard"
+description: "Cheat Sheet"
 type : "docs"
 ---
 

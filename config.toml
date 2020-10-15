@@ -87,8 +87,8 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
-url = "about"
+name = "FAQ"
+url = "faq"
 weight = 2
 
 [[Languages.en.menu.main]]

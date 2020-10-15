@@ -2,7 +2,7 @@
 title: "SNA 101"
 date: 2020-10-12T11:02:05+06:00
 icon: "ti-blackboard"
-description: "a.k.a. cheatsheets and some crash courses"
+description: "A.K.A. cheatsheets and some crash courses for your initiation"
 type : "docs"
 ---
 {{< notice info >}}

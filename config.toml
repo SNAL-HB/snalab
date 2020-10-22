@@ -63,7 +63,7 @@ copyright = "Copyright © 2020 Social Network Analysis Lab at Harrisburg | [Cont
 
 # banner
 [Languages.en.params.banner]
-title = "Collaborate=Experiment + Workshop"
+title = "Collaborate=Experiment+Workshop"
 subtitle = "Get advice and feedback from our SNA community fast and keep in touch"
 bg_image = "images/banner.jpg"
 placeholder = "Ready? Why not start your SNA journey here"

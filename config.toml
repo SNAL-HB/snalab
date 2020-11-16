@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://snalab.netlify.app/"
+baseURL = "https://sna.hartbullock.com/"
 # theme
 theme = "dot"
 # site title
